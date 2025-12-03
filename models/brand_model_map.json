@@ -1,0 +1,99 @@
+{
+    "audi": [
+        "a4",
+        "a6",
+        "other_model"
+    ],
+    "bmw": [
+        "5",
+        "3",
+        "x1",
+        "other_model"
+    ],
+    "datsun": [
+        "redigo",
+        "go",
+        "other_model"
+    ],
+    "ford": [
+        "ecosport",
+        "aspire",
+        "figo",
+        "other_model"
+    ],
+    "honda": [
+        "city",
+        "amaze",
+        "other_model",
+        "jazz",
+        "civic",
+        "wr-v"
+    ],
+    "hyundai": [
+        "grand",
+        "i20",
+        "i10",
+        "venue",
+        "verna",
+        "creta",
+        "santro",
+        "elantra",
+        "other_model"
+    ],
+    "mahindra": [
+        "bolero",
+        "xuv500",
+        "other_model",
+        "scorpio",
+        "kuv",
+        "thar"
+    ],
+    "maruti": [
+        "alto",
+        "wagon_r",
+        "swift",
+        "ciaz",
+        "baleno",
+        "swift_dzire",
+        "ignis",
+        "vitara",
+        "celerio",
+        "ertiga",
+        "eeco",
+        "other_model"
+    ],
+    "mercedes-benz": [
+        "c-class",
+        "e-class",
+        "other_model"
+    ],
+    "other_brand": [
+        "other_model",
+        "xf"
+    ],
+    "renault": [
+        "duster",
+        "kwid",
+        "other_model"
+    ],
+    "skoda": [
+        "rapid",
+        "superb",
+        "octavia"
+    ],
+    "tata": [
+        "tiago",
+        "other_model",
+        "safari",
+        "nexon"
+    ],
+    "toyota": [
+        "innova",
+        "fortuner",
+        "other_model"
+    ],
+    "volkswagen": [
+        "vento",
+        "polo"
+    ]
+}

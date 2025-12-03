@@ -1,0 +1,6 @@
+{
+    "reg__metric": "minkowski",
+    "reg__n_neighbors": 7,
+    "reg__p": 2,
+    "reg__weights": "distance"
+}
